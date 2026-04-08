@@ -4,6 +4,7 @@
         {
             "url": "https://secnhack.in",
             "name": "Foo"
+            <script>alert('1')</script>
         }
     ]
 }
